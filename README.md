@@ -9,6 +9,7 @@ El objetivo del proyecto es permitir a un usuario **registrar, consultar y admin
 # 🚀 Tecnologías utilizadas
 
 ## Backend
+- C#
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
