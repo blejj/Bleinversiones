@@ -47,8 +47,6 @@ El sistema utiliza **JWT (JSON Web Token)** para autenticar usuarios.
 3. Se genera un **token JWT**
 4. El frontend guarda el token
 5. Las requests protegidas incluyen el token en el header:
-
-```http
 Authorization: Bearer {token}
 
 # 📂 Funcionalidades
